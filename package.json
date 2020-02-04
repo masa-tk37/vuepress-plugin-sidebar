@@ -1,0 +1,19 @@
+{
+  "name": "vuepress-plugin-sidebar",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masa-tk37/vuepress-plugin-sidebar.git"
+  },
+  "author": {
+    "name": "masa-tk37",
+    "email": "masa.tk37@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/masa-tk37/vuepress-plugin-sidebar/issues"
+  },
+  "homepage": "https://github.com/masa-tk37/vuepress-plugin-sidebar#readme"
+}
